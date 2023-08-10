@@ -22,7 +22,7 @@ Webpage looks like =>
 
 <img src="Images/port1.png">
 <img src="Images/port2.png">
-<img src="Images/port3png">
+<img src="Images/port3.png">
 <img src="Images/port4.png">
 
 This is a responsive web page: 
